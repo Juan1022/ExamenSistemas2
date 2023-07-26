@@ -1,0 +1,5 @@
+#include <stdio.h>#include <stdlib.h>int main(){
+    printf("archivo proximo a borrar\n");
+    printf("esto será borrado\n");
+    return(EXIT_SUCCESS);
+}
