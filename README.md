@@ -20,4 +20,8 @@ Para realizar los commits, primero debemos agregar un archivo a la FOTO con --gi
 ### Enviar los cambios del repositorio local al remoto.
 Para enviar los cambios debemos ejecutar el comando --git push.
 
-###
+### LOGOUT
+Debemos usar el comando --git auth logout, en caso de no tener gh, ir al buscador de windows y escribir "credential manager", busca tus credenciales de Git y eliminar dicha credencial.
+
+### Cerrar Sesión en GIT HUB
+En el browser debemos irnos a la esquina superior derecha de GH y cerrar sesión
